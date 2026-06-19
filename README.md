@@ -99,7 +99,7 @@ Always experimenting with new ideas and building things that solve real problems
 |---|---|
 | 🏫 **Institution** | SBRR Mahajana First Grade College (Autonomous), Mysore |
 | 📚 **Degree** | Bachelor of Computer Applications (BCA) |
-| 📊 **CGPA** | 7.5 |
+| 📊 **CGPA** | 7.89 |
 
 ---
 
